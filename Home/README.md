@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# A CC Management PhoneGap App
 
 ## Usage
 
